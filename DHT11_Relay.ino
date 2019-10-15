@@ -14,8 +14,8 @@
 
 DHT dht(DHTPIN, DHTTYPE);
 
-#define wifi_ssid "SSID"           // SSID
-#define wifi_password "PASSWORD"   // Password WiFi
+#define ssid "SSID"           // SSID
+#define password "PASSWORD"   // Password WiFi
 
 #define mqtt_server "IP_Address"   // Broker MQTT
 //#define mqtt_user "user"
